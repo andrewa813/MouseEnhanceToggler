@@ -1,11 +1,13 @@
 # MouseEnhanceToggler
-## Release Binary
+## Standalone Release (Binary x86/64)
 [MouseEnhanceToggler 1.0](./release/MouseEnhanceToggler-1.0.exe)
 
 ## What is it?
 MouseEnhanceToggler is an extremely simple Windows taskbar icon toggler for the "Mouse > Motion > Enhance pointer precision" option.
+
 This can be handy for gamers who need to remove the extra mouse acceleration when playing mouse-sensitive games like FPSes.
-More info at: [http://www.thewindowsclub.com/enhance-pointer-precision-windows](http://www.thewindowsclub.com/enhance-pointer-precision-windows)
+More info at <http://www.thewindowsclub.com/enhance-pointer-precision-windows>
+
 ![alt tag](./docs/Capture1.png) ![alt tag](./docs/Capture2.png)
 
 Written in C# for WPF under Visual Studio 2015. Tested with Windows 10 only (as of 1/23/16).
