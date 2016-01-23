@@ -4,9 +4,9 @@
 
 ## What is it?
 MouseEnhanceToggler is an extremely simple Windows taskbar icon toggler for the "Mouse > Motion > Enhance pointer precision" option.
+This can be a very handy tool for gamers who need to remove the extra mouse acceleration quickly when playing mouse-sensitive games like FPSes.
 
-This can be handy for gamers who need to remove the extra mouse acceleration when playing mouse-sensitive games like FPSes.
-More info at <http://www.thewindowsclub.com/enhance-pointer-precision-windows>
+More info at <http://www.thewindowsclub.com/enhance-pointer-precision-windows>.
 
 ![alt tag](./docs/Capture1.png) ![alt tag](./docs/Capture2.png)
 
